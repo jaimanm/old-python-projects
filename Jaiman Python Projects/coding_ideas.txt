@@ -1,0 +1,5 @@
+#1 **PAPA'S CHALLENGE** : Program gives a series of characters (3 < length < 10) and the user types in ANY 3 CHARACTERS as fast as they can. Then the program increases or decreases the length according to how close the user's input was to the given characters.
+
+#2: Word Game: program gives a series of characters (3 < length < 10) and the user types in the same characters as fast as they can. Then the program gives another set of characters, and the user has to keep going and get the most they can in a set amount of time. They get a score and a high score to beat.
+
+#3: **PAPA'S CHALLENGE** : random password generator, asks user for the password length, then generates a random series of characters, which are made up of lowercase and uppercase letters, numbers, and symbols.
